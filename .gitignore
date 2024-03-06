@@ -1,0 +1,6 @@
+*
+!*.cs
+!*.csproj
+!.gitignore
+!README.md
+!nlog.config
